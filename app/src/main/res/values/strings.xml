@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Recettons</string>
+    <string name="button_tes">Login</string>
+    <string name="enregistrer">Register</string>
+    <string name="mdp">Password</string>
+
+    <string name="notification_title">Hello and welcome on Recettons</string>
+    <string name="notification_desc">Have a nice meal!</string>
+
+    <string name="search_title">Find</string>
+    <string name="search_desc">Please fill out with an ingredient or with the recipe you are looking for (tomato, hamburger&#8230;) </string>
+    <string name="search_ok">Go</string>
+
+    <string name="aide">Click here to find a recipe</string>
+
+    <string name="robot">Are you a robot ?</string>
+    <string name="robot_title">WARNING</string>
+    <string name="robot_oui">Yes</string>
+    <string name="robot_non">No</string>
+
+
+
+
+
+</resources>
