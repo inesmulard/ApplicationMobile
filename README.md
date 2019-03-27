@@ -26,8 +26,7 @@ Quand l'application s'ouvre, l'utilisateur a le choix entre se connecter à l'ap
 
 Si l'utilisateur ne possède pas de compte, il doit alors entrer ses informations nécésaires à la création de son compte (_cette application ne possède pas de base de donnée_)
 
-<img src="(https://user-images.githubusercontent.com/45971396/55112449-e8c89f00-50dc-11e9-8ea2-286d4030152f.jpg" width="300">
-<img src="(https://user-images.githubusercontent.com/45971396/55112463-ea926280-50dc-11e9-9358-0f5f8475dcac.jpg" width="300">
+<img src="(https://user-images.githubusercontent.com/45971396/55112449-e8c89f00-50dc-11e9-8ea2-286d4030152f.jpg" width="300"><img src="(https://user-images.githubusercontent.com/45971396/55112463-ea926280-50dc-11e9-9358-0f5f8475dcac.jpg" width="300">
 <img src="https://user-images.githubusercontent.com/45971396/55112458-e9f9cc00-50dc-11e9-81d0-bd8f6e0cd0ca.jpg" width="300">
 
 
