@@ -3,7 +3,7 @@ __*Inès MULARD 33*__
 
 # Présentation
 
-Recettons est un application qui permet à son utilisateur de rechercher des recettes de cuisines, en fonctions de ses envies ! Il n'a qu'à taper dans la barre de recherhe le plat qu'il à envie de dégster, et recettons lui propose un large choix de recettes liées à sa recherche.
+Recettons est un application qui permet à son utilisateur de rechercher des recettes de cuisines, en fonctions de ses envies ! Il n'a qu'à taper dans la barre de recherhe le plat qu'il à envie de déguster, ou l'ingrédient qu'il souhaite retrouver dans sa recette, et recettons lui propose un large choix de recettes liées à sa recherche.
 
 ------------------------
 
