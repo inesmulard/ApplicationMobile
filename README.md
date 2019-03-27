@@ -2,12 +2,14 @@
 __*Inès MULARD 33*__
 
 # Présentation
+--
 
 Recettons est un application qui permet à son utilisateur de rechercher des recettes de cuisines, en fonctions de ses envies ! Il n'a qu'à taper dans la barre de recherhe le plat qu'il à envie de dégster, et recettons lui propose un large choix de recettes liées à sa recherche.
 
 ------------------------
 
 # Prérecquis 
+--
 
 * Android Studio 
 * Un téléphone Android
@@ -15,6 +17,7 @@ Recettons est un application qui permet à son utilisateur de rechercher des rec
 ------------------------
 
 # Consignes réspéctées
+--
 
 * Plus de deux écrans 
 * Appel WebService à une API Rest
@@ -23,8 +26,10 @@ Recettons est un application qui permet à son utilisateur de rechercher des rec
 ------------------------
 
 # Fonctionnalités
+--
 
 ## Se connecter
+--
 
 Quand l'application s'ouvre, l'utilisateur a le choix entre se connecter à l'application si il s'est déja crée un compte, ou à s'en créer un.
 
@@ -36,9 +41,10 @@ Si l'utilisateur ne possède pas de compte, il doit alors entrer ses information
 <img src="(https://user-images.githubusercontent.com/45971396/55112463-ea926280-50dc-11e9-9358-0f5f8475dcac.jpg" width="300">
 <img src="https://user-images.githubusercontent.com/45971396/55112458-e9f9cc00-50dc-11e9-81d0-bd8f6e0cd0ca.jpg" width="300">
 
--------
+----
 
 ## Rechecher sa recette
+--
 
 Après s'être connécté, l'utlisateur à la posibilitée d'acceder à une barre de recherche dans laquelle il devra entrer le nom du plat dont il cherche la recette.
 
