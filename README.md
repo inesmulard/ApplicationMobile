@@ -22,11 +22,11 @@ Recettons est un application qui permet à son utilisateur de rechercher des rec
 
 Quand l'application s'ouvre, l'utilisateur a le choix entre se connecter à l'application si il s'est déja crée un compte, ou à s'en créer un.
 
-![title](https://user-images.githubusercontent.com/45971396/55112460-e9f9cc00-50dc-11e9-917c-29ce82366439.jpg)
+![title](https://user-images.githubusercontent.com/45971396/55112460-e9f9cc00-50dc-11e9-917c-29ce82366439.jpg = 250x250)
 
 Si l'utilisateur ne possède pas de compte, il doit alors entrer ses informations nécésaires à la création de son compte (_cette application ne possède pas de base de donnée_)
 
-![title](https://user-images.githubusercontent.com/45971396/55112449-e8c89f00-50dc-11e9-8ea2-286d4030152f.jpg {width=40px height=400px})![title](https://user-images.githubusercontent.com/45971396/55112463-ea926280-50dc-11e9-9358-0f5f8475dcac.jpg)![title](https://user-images.githubusercontent.com/45971396/55112458-e9f9cc00-50dc-11e9-81d0-bd8f6e0cd0ca.jpg)
+![title](https://user-images.githubusercontent.com/45971396/55112449-e8c89f00-50dc-11e9-8ea2-286d4030152f.jpg)![title](https://user-images.githubusercontent.com/45971396/55112463-ea926280-50dc-11e9-9358-0f5f8475dcac.jpg)![title](https://user-images.githubusercontent.com/45971396/55112458-e9f9cc00-50dc-11e9-81d0-bd8f6e0cd0ca.jpg)
 
 ## Rechecher sa recette
 
