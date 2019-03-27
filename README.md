@@ -51,13 +51,19 @@ Après s'être connécté, l'utlisateur à la posibilitée d'acceder à une barr
 
 L'applicaion lui affichera alors une liste de differentes recettes en lien avec sa recherche. 
 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/45971396/55112455-e9f9cc00-50dc-11e9-91fd-7bdb9f5c5177.jpg" width="300">
+</p>
 
 En appuyant sur l'élément de la liste, l'utlisateur est envoyé sur le lien internet de la recette.
 
+<p align="center">
 <img src="https://user-images.githubusercontent.com/45971396/55112456-e9f9cc00-50dc-11e9-8ee4-20b09d41b113.jpg" width="300">
+</p>
 
 Si l'utilisateur entre une recherche incohérente, voici ce qu'il s'affiche:
 
+<p>
 <img src="https://user-images.githubusercontent.com/45971396/55112461-ea926280-50dc-11e9-939c-c6581018363d.jpg" width="300">
 <img src="https://user-images.githubusercontent.com/45971396/55112452-e9613580-50dc-11e9-94be-f1a1df0098e4.jpg" width="300">
+</p>
