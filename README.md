@@ -21,8 +21,8 @@ Recettons est un application qui permet à son utilisateur de rechercher des rec
 ## Se connecter
 
 Quand l'application s'ouvre, l'utilisateur a le choix entre se connecter à l'application si il s'est déja crée un compte, ou à s'en créer un.
-
-![title](https://user-images.githubusercontent.com/45971396/55112460-e9f9cc00-50dc-11e9-917c-29ce82366439.jpg = 250x250)
+<img src="https://user-images.githubusercontent.com/45971396/55112460-e9f9cc00-50dc-11e9-917c-29ce82366439.jpg" width="48">
+![title](https://user-images.githubusercontent.com/45971396/55112460-e9f9cc00-50dc-11e9-917c-29ce82366439.jpg )
 
 Si l'utilisateur ne possède pas de compte, il doit alors entrer ses informations nécésaires à la création de son compte (_cette application ne possède pas de base de donnée_)
 
