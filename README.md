@@ -45,7 +45,7 @@ Si l'utilisateur ne possède pas de compte, il doit alors entrer ses information
 Après s'être connécté, l'utlisateur à la posibilitée d'acceder à une barre de recherche dans laquelle il devra entrer le nom du plat dont il cherche la recette.
 
 <p>
-<img src="https://user-images.githubusercontent.com/45971396/55112457-e9f9cc00-50dc-11e9-8548-08037cebf9f6.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/45971396/55112457-e9f9cc00-50dc-11e9-8548-08037cebf9f6.jpg" width="290">
 <img src="https://user-images.githubusercontent.com/45971396/55112454-e9613580-50dc-11e9-83f4-0e9f9bcedd62.jpg" width="300">
 </p>
 
@@ -65,5 +65,5 @@ Si l'utilisateur entre une recherche incohérente, voici ce qu'il s'affiche:
 
 <p>
 <img src="https://user-images.githubusercontent.com/45971396/55112461-ea926280-50dc-11e9-939c-c6581018363d.jpg" width="300">
-<img src="https://user-images.githubusercontent.com/45971396/55112452-e9613580-50dc-11e9-94be-f1a1df0098e4.jpg" width="300">
+<img src="https://user-images.githubusercontent.com/45971396/55112452-e9613580-50dc-11e9-94be-f1a1df0098e4.jpg" width="290">
 </p>
