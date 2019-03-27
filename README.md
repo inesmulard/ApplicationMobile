@@ -39,7 +39,7 @@ Quand l'application s'ouvre, l'utilisateur a le choix entre se connecter à l'ap
 
 Si l'utilisateur ne possède pas de compte, il doit alors entrer ses informations nécésaires à la création de son compte (__cette application ne possède pas de base de donnée__)
 
-<p>
+<p align="center>
 <img src="https://user-images.githubusercontent.com/45971396/55112449-e8c89f00-50dc-11e9-8ea2-286d4030152f.jpg" width="255">
 <img src="https://user-images.githubusercontent.com/45971396/55112463-ea926280-50dc-11e9-9358-0f5f8475dcac.jpg" width="280">
 </p>
@@ -50,10 +50,11 @@ Quand l'utilisateur veut valider son iscription , l'application va alors vérifi
 <img src="https://user-images.githubusercontent.com/45971396/55115192-2d0b6d80-50e4-11e9-84cd-d85af73e8c00.jpg" width="250">
 </p>
 
-L'utilisateur va alors être redirigé vers le menu principal afin de pouvoir entrer ses identifiants pour pouvoir enfin utliser l'application.
+L'utilisateur va alors être redirigé vers le menu principal afin de pouvoir entrer ses identifiants pour pouvoir enfin utliser l'application. Si l'utilisateur ente les mauvais identifians, l'utilisateur est notifié qu'il s'est trompé de mot de passe, et à la possibilité d'avoir une nouvelle tentative pour se reconnecter.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45971396/55112458-e9f9cc00-50dc-11e9-81d0-bd8f6e0cd0ca.jpg" width="250">
+<img src="https://user-images.githubusercontent.com/45971396/55112453-e9613580-50dc-11e9-9e7d-307a186f126a.jpg" width="250">
 </p>
 
 
@@ -61,7 +62,7 @@ L'utilisateur va alors être redirigé vers le menu principal afin de pouvoir en
 
 Après s'être connécté, l'utlisateur à la posibilitée d'acceder à une barre de recherche dans laquelle il devra entrer le nom du plat dont il cherche la recette.
 
-<p>
+<p align="center>
 <img src="https://user-images.githubusercontent.com/45971396/55112457-e9f9cc00-50dc-11e9-8548-08037cebf9f6.jpg" width="290">
 <img src="https://user-images.githubusercontent.com/45971396/55112454-e9613580-50dc-11e9-83f4-0e9f9bcedd62.jpg" width="300">
 </p>
@@ -80,7 +81,7 @@ En appuyant sur l'élément de la liste, l'utlisateur est envoyé sur le lien in
 
 Si l'utilisateur entre une recherche incohérente, voici ce qu'il s'affiche:
 
-<p>
+<p align="center>
 <img src="https://user-images.githubusercontent.com/45971396/55112461-ea926280-50dc-11e9-939c-c6581018363d.jpg" width="300">
 <img src="https://user-images.githubusercontent.com/45971396/55112452-e9613580-50dc-11e9-94be-f1a1df0098e4.jpg" width="290">
 </p>
